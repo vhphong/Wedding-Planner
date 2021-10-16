@@ -1,0 +1,2 @@
+# Wedding-Planner-
+The Wedding Planner app is an online planner for a small wedding planner company. Employees to create and manage weddings. Employees can also send each other messages. It is a micro-services cloud deployed application. The application makes use of many GCP services including, Google Compute Engine, Datastore, Cloud SQL, Datastore, App Engine, Cloud Functions, Cloud Storage and Firebase Hosting.
