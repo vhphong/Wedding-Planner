@@ -1,0 +1,7 @@
+runtime: nodejs14
+# instance class: F1
+# automatic_scaling:
+# max_instance: 2
+# min_instance: 1
+
+service_account: p1weddings-datastore@p1wedding.iam.gserviceaccount.com
